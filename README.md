@@ -127,6 +127,5 @@ To automate the GUI testing, you can use **pyautogui** to simulate user interact
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 This version maintains your original structure while refining formatting and content for clarity. Great work on covering all key aspects of the project!
