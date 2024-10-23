@@ -1,6 +1,3 @@
-Your `README.md` looks comprehensive and well-structured! You've clearly laid out the project's details, making it easy for users and contributors to understand and get started. Here’s a slightly refined version for consistency and clarity:
-
-```markdown
 # To-Do Application
 
 This is a simple **To-Do Application** built with **Python, Flask, PostgreSQL**, and a **Tkinter GUI**. It allows users to **add, view, update, and delete tasks** through a graphical user interface. The backend is built using **Flask** and the data is stored in a **PostgreSQL database**.
